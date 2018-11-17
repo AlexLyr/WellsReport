@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/src/main/java/com/liza/MainClass.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/liza/dao/BookReader.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/liza/dao/DaoCreator.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/liza/dao/Database.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/liza/service/EntityService.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/main/java/com/liza/service/ExcelCreator.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/liza/dao/BookReaderTest.java" charset="windows-1251" />
+    <file url="file://$PROJECT_DIR$/src/test/java/com/liza/dao/DaoCreatorTest.java" charset="windows-1251" />
+  </component>
+</project>
